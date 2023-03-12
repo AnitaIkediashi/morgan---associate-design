@@ -17,7 +17,7 @@ const Contact = () => {
       </h3>
 
       <div
-        className="lg:w-[70%] mx-auto w-1/2"
+        className="lg:w-[70%] mx-auto md:w-1/2 w-full"
         data-aos="fade-up"
         data-aos-delay="600"
       >

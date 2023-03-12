@@ -41,6 +41,7 @@ const Contact = () => {
               className="w-full border border-color-gray-400 h-12 rounded-md font-Playfair"
               required
             />
+            
           </div>
           <div className="flex flex-col gap-1">
             <label className="font-semibold font-Abril text-lg text-color-gray-300">
